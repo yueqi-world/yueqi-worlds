@@ -1,22 +1,26 @@
-# Gui Lai
+# 归来
 
-A story about return, identity, and the boundary between worlds.
+这是一个关于「回归」的故事。  
 
-**Status:** Ongoing  
-**Current Chapter:** 15
-
----
-
-## Entry
-
-This is not only an escape.
-
-It is the process of being recognized by the world again.
+关于名字、身份，  
+以及人与世界之间的边界。
 
 ---
 
-## Sections
+**状态：连载中**  
+**当前章节：第二卷第7章**
 
-- [Chapters](./chapters.md)
-- [Characters](./characters.md)
-- [Fragments](./fragments.md)
+---
+
+## 入口
+
+有些人是走出去。  
+有些人，是被带回来。
+
+---
+
+## 内容
+
+- [章节](./chapters.md)
+- [人物](./characters.md)
+- [片段](./fragments.md)
