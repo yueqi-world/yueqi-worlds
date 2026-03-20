@@ -1,7 +1,8 @@
 # Fragments
 
-She didn’t move.
+呀吱……”木门被推开，渗漏出温暖的阳光。
+他探出半个头，肩头滑落下他的碎发。
+头发乌黑缎亮，是我为他精心养护的成果。我微笑地看着他。
+这孩子，越来越有原来该有的样子了。
 
-The light fell on her back.
 
-He stopped, just before touching her.
