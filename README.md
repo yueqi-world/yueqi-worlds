@@ -1,27 +1,26 @@
-# 🌙 Yue Qi
+# 🌙 乐琦 Yue Qi
 
-I write worlds.  
-And I record how they grow.
+我在写世界。  
+也记录它如何长出来。
 
-Some of them never stop.
-
----
-
-## Works
-
-- [Gui Lai](./gui_lai/README.md) *(ongoing)*
-- Moonlight Game *(coming soon)*
+有些东西，不会结束。
 
 ---
 
-## Fragments
+## 作品
 
-Small pieces that stay.
-
-Not everything needs to be finished.
+- [归来](./gui_lai/README.md)（连载中）
+- 月光的游戏（已完成）
 
 ---
 
-## System
+## 片段
 
-A writing system built inside daily life.
+一些留下来的东西。  
+不一定完整。
+
+---
+
+## 系统
+
+写作，是我生活的一部分。
