@@ -3,6 +3,8 @@
 I write worlds.  
 And I record how they grow.
 
+Some of them never stop.
+
 ---
 
 ## Works
@@ -15,6 +17,8 @@ And I record how they grow.
 ## Fragments
 
 Small pieces that stay.
+
+Not everything needs to be finished.
 
 ---
 
