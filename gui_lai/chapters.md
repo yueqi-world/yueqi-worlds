@@ -1,17 +1,17 @@
-# Chapters
+# 章节
 
-- Chapter 1
-- Chapter 2
-- Chapter 3
-- Chapter 4
-- Chapter 5
-- Chapter 6
-- Chapter 7
-- Chapter 8
-- Chapter 9
-- Chapter 10
-- Chapter 11
-- Chapter 12
-- Chapter 13
-- Chapter 14
-- Chapter 15 *(ongoing)*
+- 第1章
+- 第2章
+- 第3章
+- 第4章
+- 第5章
+- 第6章
+- 第7章
+- 第8章
+- 第9章
+- 第10章
+- 第11章
+- 第12章
+- 第13章
+- 第14章
+- 第15章（进行中）
