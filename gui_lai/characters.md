@@ -1,7 +1,7 @@
-# Characters
+# 人物
 
-Mo Xi  
-— something returning
+## 墨夕
+—— 一个正在归来的存在
 
-Luo Ya  
-— a name taken away
+## 洛亚
+—— 被夺去名字的人
