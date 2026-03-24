@@ -28,10 +28,25 @@
 
 ### ✍️ 片段 Fragments
 
-> 一些记下来的东西。
-> 不一定完整。
+> [!NOTE]
+> **一些记下来的东西。不一定完整。**
 > 
-> —— *系统：写作，是我生活的一部分。*
+> *“他坐在月光里，看那些碎裂的文字如何重新拼凑。有些故事，本就不需要结局。”*
+
+<br>
+
+| 📜 最近更新 | 🕯️ 灵感残响 |
+| :--- | :--- |
+| **《关于名字的注销》**<br>身份是一层蝉翼，轻轻一撕就碎了。 | **《午夜的提灯人》**<br>他在黑暗中行走，不为照亮路，只为照亮影子。 |
+
+<br>
+
+### ⚙️ 系统 System
+
+> [!TIP]
+> **写作，是我生活的一部分。**
+> 
+> 作为一个记录者，我在这里构建逻辑，也在尝试推翻逻辑。
 
 <br>
 
@@ -40,8 +55,13 @@
 <div align="center">
 
 <p>
-  <a href="https://www.instagram.com/velastra.world/">📷 Instagram (世界观构建)</a> • 
-  <a href="#">📕 小红书 (作者随笔)</a>
+  <a href="https://www.instagram.com/velastra.world/">📷 <b>Instagram</b> · 世界观构建</a> ｜ 
+  <a href="#">📕 <b>小红书</b> · 作者随笔</a> ｜ 
+  <a href="../README.md">🏠 <b>返回主页</b></a>
 </p>
+
+<br>
+
+<sub>© 2026 乐琦 Yue Qi. All rights reserved.</sub>
 
 </div>
